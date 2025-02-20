@@ -3,9 +3,13 @@ Multi-class classification pipeline with data preprocessing, feature engineering
 
 🔹 Key Features:
 ✔️ Data preprocessing and augmentation
+
 ✔️ Feature selection and engineering
+
 ✔️ Model training with scikit-learn, TensorFlow, or PyTorch
+
 ✔️ Performance evaluation with precision, recall, F1-score, and confusion matrices
+
 ✔️ Hyperparameter tuning with GridSearchCV & Bayesian Optimization
 
 🔹 Get Started:
