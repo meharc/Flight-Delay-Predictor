@@ -1,5 +1,7 @@
 # Multi-class-Classification-with-ML
-Multi-class classification pipeline with data preprocessing, feature engineering, and model training. Includes logistic regression and random forests. Evaluates performance using precision, recall, F1-score, and confusion matrices. Supports hyperparameter tuning for optimal results. 
+**Flight Delay Classifier** predicts whether a flight will be on time, slightly delayed, moderately delayed, or significantly delayed based on factors like departure time, airline, route distance, weather conditions, and past delays. This multi-class classification model handles time-based features, categorical variables, and class imbalance challenges. 🚀✈️
+
+The pipeline contains data preprocessing, feature engineering, and model training. Includes logistic regression and random forests. Evaluates performance using precision, recall, F1-score, and confusion matrices. Supports hyperparameter tuning for optimal results. 
 
 🔹 Key Features:
 
